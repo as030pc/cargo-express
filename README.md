@@ -1,4 +1,3 @@
-# cargo-express
 
 # Cargo Express
 
